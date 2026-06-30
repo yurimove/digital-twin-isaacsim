@@ -38,11 +38,8 @@ The resulting models were imported into Isaac Sim, scaled appropriately, and pos
 ## Repository Structure
 
 ```
-assets/
     keyboard.usd
     mouse.usd
-
-demo/
     demo.mp4
 ```
 
